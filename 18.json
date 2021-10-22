@@ -1,12 +1,48 @@
 {
-	"description": "Hidden Collection contact https://twitter.com/AxieDerivatives",
-	"image": "https://kobierecky.github.io/AxieDer/1.png",
-	"name": "Hide This Unhide New",
-	"external_url": "https://twitter.com/AxieDerivatives",
+	"description": "Axie Infinity Fanart of Mystic Axie #3123 https://marketplace.axieinfinity.com/axie/3123",
+	"image": "https://kobierecky.github.io/AxieDerivatives/18.png",
+	"name": "Derivative of Mystic Axie #3123",
+	"external_url": "https://marketplace.axieinfinity.com/axie/3123",
 	"attributes": [
 		{
-			"trait_type": "Hidden",
-			"value": "Yes"
+			"trait_type": "Eyes",
+			"value": "Mavis"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Beetle Spike"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Crystal Hermit"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Kotaro"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Candy Babylonia"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Fire Ant"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Aquatic"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Rainbow"
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin"
+		},
+		{
+			"trait_type": "Mystic",
+			"value": "3"
 		}
 	]
 }
