@@ -1,12 +1,40 @@
 {
-	"description": "Hidden Collection contact https://twitter.com/AxieDerivatives",
-	"image": "https://kobierecky.github.io/AxieDer/1.png",
-	"name": "Hide This Unhide New",
-	"external_url": "https://twitter.com/AxieDerivatives",
+	"description": "Axie Infinity Fanart of #TEMPEST Axie",
+	"image": "https://kobierecky.github.io/AxieDerivatives/23.png",
+	"name": "Derivative of #TEMPEST Axie",
+	"external_url": "https://twitter.com/TempestBGaming",
 	"attributes": [
 		{
-			"trait_type": "Hidden",
-			"value": "Yes"
+			"trait_type": "Eyes",
+			"value": "Kotaro?"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Nut Cracker"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Ronin"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Katana"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Tempest"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Gerbil"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Beast"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Red"
 		}
 	]
 }
