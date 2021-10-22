@@ -1,0 +1,12 @@
+{
+	"description": "Hidden Collection contact https://twitter.com/AxieDerivatives",
+	"image": "https://kobierecky.github.io/AxieDer/1.png",
+	"name": "Hide This Unhide New",
+	"external_url": "https://twitter.com/AxieDerivatives",
+	"attributes": [
+		{
+			"trait_type": "Hidden",
+			"value": "Yes"
+		}
+	]
+}
